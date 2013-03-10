@@ -4,7 +4,7 @@ Donate link: http://www.wieser.at/
 Tags: Anker, Scroll 
 Requires at least: 3.3.1
 Tested up to: 3.3.1
-Stable tag: 2.0
+Stable tag: 1.2.5
 
 FW Anker für einfache Verwendung der HTML Anker <a name="anker"> <a href="#anker"> mit Shortcode in Beiträge und Seiten, somit für einfaches Scrollen per Mausklick nutzbar.
 
@@ -44,8 +44,6 @@ this Plugin is only german language in this time
 
 
 == Changelog ==
-= 2.0 =
-korrektur Infotext
 = 1.0 =
 Anker Funktion 
 

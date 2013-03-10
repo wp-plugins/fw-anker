@@ -1,7 +1,7 @@
 <?php
 /* 
 Plugin Name: FW Anker
-Version: 2.0
+Version: 1.2.2
 Plugin URI: http://www.wieser.at/wordpress/plugins
 Description: Anker ist eine Einfach nutzung von HTML Anker <a name="anker"> und <a href="#anker> mit einem Shortcode [anker name="anker" href="anker" text="anker"]
 Author: Franz Wieser
